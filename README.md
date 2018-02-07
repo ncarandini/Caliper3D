@@ -25,8 +25,7 @@ https://www.amazon.it/gp/product/B01H035DRO
 ## Caliber modding to connect to the serial port
 The caliber comes with a serial port (no TTL or RS232 serial port, more on this later) but to take advantage of it, we need to open the caliper and solder four wires to the board:
 <p align="center">
-  <img src="/ArtWorks/Smontaggio%20calibro.png" width="450" title="Unmounted caliper">
-  <img src="/ArtWorks/Schema%20saldatura%20calibro.png" width="450" title="Caliper cable soldering">
+  <img src="/ArtWorks/Schema%20saldatura%20calibro.png" width="700" title="Caliper cable soldering">
 </p>
 
 ## Breadboard circuit
