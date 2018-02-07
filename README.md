@@ -44,4 +44,9 @@ It all depends on the 3D printer model you have. On my 3D printer has been an ea
 The Sketch loop Read the caliper measure and listen the (USB) serial port waiting for a command from the UWP App. Actually the only command is the R(ead) command, and when the Arduino receive it, it respond sending the last received caliper measure back to the UWP app via the (USB) serial port.
 
 ## Windows 10 UWP app
-I'm still completing the app, actually
+The UWP app is still a working progress, I'll add it to this repo A.S.A.P. and I'll update this readme with the pertinent infos.
+<p align="center">
+  <img src="/ArtWorks/UWP%20app.png" width="700" title="UWP app screenshot">
+</p>
+
+Stay tuned!
