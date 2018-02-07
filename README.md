@@ -1,7 +1,7 @@
 # Caliper3D
 This project use a PC with Windows 10, an Arduino Nano with a LCD display and a digital caliper to measure the geometry of the printing bed of a 3D printer.
 <p align="center">
-  <img src="/ArtWorks/Architettura%20del%20progetto.png" width="700" title="Project architecture">
+  <img src="/ArtWorks/Project%20Architecture.png" width="700" title="Project architecture">
 </p>
 
 ## Bill of materials
