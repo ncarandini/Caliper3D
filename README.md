@@ -9,7 +9,7 @@ Links refer to Amazon Italy, but you can find it almost everywere:
 
 ### Windows 10 PC
 Your everyday Windows 10 PC.
-Note that because two usb port are required to connect to Arduino and 3D Printer, if your PC has only one then you need aUSB Hub to connect to both devices at the same time, and the USB Hub need to be powered to give power to the Arduino via USB.
+Note that because two usb port are required to connect to the Arduino and the 3D Printer, if your PC has only one then you need a USB Hub to connect to both devices at the same time, and the USB Hub need to be powered to give power to the Arduino via USB.
 
 ### Arduino Nano
 Elegoo Nano V3.0 Scheda Elettronica Microcontrollore CH340 ATmega328P con Cavo USB per Arduino
