@@ -1,9 +1,9 @@
-// Copyright (c) 2018 TPCWare - Nicolò Carandini
+// Copyright (c) 2018 TPCWare - NicolÃ² Carandini
 //
 // This file is licensed to you under the MIT License.
 // See the LICENSE file in the project root for more information.
 // 
-// Author: Nicolò Carandini
+// Author: NicolÃ² Carandini
 
 #include <Wire.h>
 #include "rgb_lcd.h"
